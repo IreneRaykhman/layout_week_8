@@ -1,0 +1,66 @@
+.first_line{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 76px;
+    margin-top: 90px;
+}
+.logo{
+    width: 200px;
+
+}
+.btn_nav{
+    width: 115px;
+    height: 38px;
+    margin-right: 74px;
+
+}
+.btn{
+    background-color:#5222D0 ;
+    border-radius: 100px;
+    color: white;
+}
+.container_main{
+    width: 99vw;
+    height: 90vh;
+    display: flex;
+    justify-content: space-between;
+}
+.btn_main{
+    width: 270px;
+    height: 84px;
+    margin-top: 30px;
+    font-weight: 400;
+    font-size: 35px;
+}
+.h1{
+    font-weight: 400;
+    font-size: 60px;
+
+}
+h1_desc{
+    font: Roboto Slab, serif;
+    font-weight: 300;
+    font-size: 20px;
+}
+.block_text{
+    align-items: space-between;
+}
+.block_pic{
+    height: 90vh;
+}
+.main_pic{
+    height: 85vh;
+}
+.main_nav{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+.list{
+    display: flex;
+}
+.nav_item{
+    list-style-type: none;
+    padding-right: 40px;
+    color: #5222D0;
+}
