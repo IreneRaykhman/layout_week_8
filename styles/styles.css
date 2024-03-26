@@ -64,3 +64,30 @@ h1_desc{
     padding-right: 40px;
     color: #5222D0;
 }
+.block__cards{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 127px;
+}
+.h2{
+    font-family: Roboto Slab, serif;
+    font-weight: 400;
+    font-size: 60px;
+    padding-left: 125px;
+}
+.h3, 
+.card_desc{
+    font-family: 'Roboto Slab', serif;
+    font-weight: 200;
+    font-size: 20px;
+    padding-top: 23px;
+}
+.block_text_form {
+    display: flex;
+    flex-wrap: nowrap;
+}
+.h3_text{
+    
+    width: 25vw;
+    margin-left: 125px;
+}
